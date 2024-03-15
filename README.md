@@ -8,10 +8,12 @@ The CPGRAMS Chatbot is an AI-driven virtual assistant designed to streamline the
 2. Upload the provided chatbot file (`Chatbot.bpz`) to your BootPress chatbot project.
 3. Configure the chatbot settings and integrations within your BootPress project dashboard.
 4. Deploy the chatbot on your website or application using the provided integration options.
+5. To run the project locally, open the `main.html` file in your web browser.
 
 ## Screenshots
-- [Screenshot 1](link_to_screenshot_1): Description of screenshot 1.
-- [Screenshot 2](link_to_screenshot_2): Description of screenshot 2.
-- [Screenshot 3](link_to_screenshot_3): Description of screenshot 3.
+- [Screenshot 1](img1): Description of screenshot 1.
+- [Screenshot 2](img2): Description of screenshot 2.
+- [Screenshot 3](img3): Description of screenshot 3.
+  
 
 
