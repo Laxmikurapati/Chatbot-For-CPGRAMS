@@ -11,9 +11,12 @@ The CPGRAMS Chatbot is an AI-driven virtual assistant designed to streamline the
 5. To run the project locally, open the `main.html` file in your web browser.
 
 ## Screenshots
-- [Screenshot 1](img1): Description of screenshot 1.
-- [Screenshot 2](img2): Description of screenshot 2.
-- [Screenshot 3](img3): Description of screenshot 3.
+*After running the project locally, click on the chatbot button located at the bottom right corner.*
+![Screenshot 1](img1.png)
+*The chatbot interface will open up, allowing you to ask your questions.*
+![Screenshot 2](img2.png)
+*You can minimize the chatbot interface when not in use.*
+![Screenshot 3](img3.png)
   
 
 
